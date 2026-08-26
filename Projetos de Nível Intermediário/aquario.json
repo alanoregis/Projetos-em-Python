@@ -1,0 +1,10 @@
+{
+    "data": [
+        {"name": "nemo", "species": "clownfish", "tank number": 4, "type": "fish"},
+        {"name": "bella", "species": "starfish", "tank number": 9, "type": "invertebrate"},
+        {"name": "max", "species": "seahorse", "tank number": 15, "type": "fish"},
+        {"name": "coral", "species": "octopus", "tank number": 22, "type": "invertebrate"},
+        {"name": "finn", "species": "pufferfish", "tank number": 7, "type": "fish"},
+        {"name": "shelly", "species": "hermit crab", "tank number": 30, "type": "shellfish"}
+    ]
+}
