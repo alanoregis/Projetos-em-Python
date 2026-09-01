@@ -1,0 +1,11 @@
+{
+  "name": "Alano Regis",
+  "origem": "Linkedin",
+  "permissao": "FOLLOWERS",
+  "data_inicio": "2025-04-27",
+  "data_fim": "2026-09-01",
+  "filter": {
+    "Title_Contain": "Dados",
+    "Quant_Exp": ">1"
+  }
+}
